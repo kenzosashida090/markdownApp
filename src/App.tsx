@@ -35,7 +35,7 @@ export default function App() {
           <span className="w-3 h-3 rounded-full bg-yellow-400"></span>
           <span className="w-3 h-3 rounded-full bg-green-400"></span>
         </div>
-        <div className="bg-gray-100 border-t-0 w-full ">
+        <div className="bg-gray-100 border-t-0 w-full  h-96 ">
           <ExampleComponent />
         </div>
       </div>
